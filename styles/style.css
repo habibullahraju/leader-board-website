@@ -163,4 +163,7 @@ color: #ED6B4F;
     main{
         padding: 0 20px;
     }
+    .blog{
+        flex-direction: column;
+    }
 }
